@@ -1,2 +1,2 @@
-# Stock-Price-Prediction-A-Multivariate-Time-Series-Analysis-Approach
+# Stock-Price-Prediction-Using-Multivariate-Time-Series-Analysis
 VAR model for multivariate time series
