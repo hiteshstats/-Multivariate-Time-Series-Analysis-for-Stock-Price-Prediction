@@ -1,3 +1,2 @@
-a=input("Enter a:")
-b=input("Enter b:")
-print(a+b)
+def add(a,b):
+  return a+b
